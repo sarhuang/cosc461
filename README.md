@@ -7,6 +7,8 @@ Labs for COSC 461: Intro to Compilers at UTK
 appearance into LaTeX. Once you get a tex file, the program will convert it into a PDF
 file.
 
+- nfa2dfa - take a text file representing a nondeterministic finite automaton (NFA) and translate it into a deterministic finite automaton (DFA)
+
 - csem
 
 
