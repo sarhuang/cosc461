@@ -4,19 +4,19 @@
 ./cexpr
 
 From input.txt
-a = 55-3;
-b = c = a-42;
-a+b*c;
-dump;
-clear;
-c = 6;
-a = b;
-a = 10000;
-b = 100000;
-a*b;
-a*b*10;
-c/d;
-d/c;
+- a = 55-3;
+- b = c = a-42;
+- a+b*c;
+- dump;
+- clear;
+- c = 6;
+- a = b;
+- a = 10000;
+- b = 100000;
+- a*b;
+- a*b*10;
+- c/d;
+- d/c;
 
 ## More about cexpr
 
