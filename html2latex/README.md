@@ -1,8 +1,8 @@
 # html2latex
 
 ## How to run html2latex
-1. make
-2. make test 
+1. Type 'make' to create executable
+2. Type 'make test' to convert example input file 
 
 ## More about html2latex
 1. The problem I attempted to solve is to take a HTML file and translate the HTML tags and
