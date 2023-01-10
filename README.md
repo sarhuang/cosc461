@@ -11,4 +11,6 @@ file.
 
 - csem - read a snippet of C code and convert into LLVM intermediate representation. It should support variables, loops, conditional statements, functions, goto, labels, etc
 
+- copt - implement optimizations for Matrix Initialize, Array Initialize, Factorial, and Matrix Multiplication
+
 
