@@ -9,6 +9,6 @@ file.
 
 - nfa2dfa - take a text file representing a nondeterministic finite automaton (NFA) and translate it into a deterministic finite automaton (DFA)
 
-- csem
+- csem - read a snippet of C code and convert into LLVM intermediate representation. It should support variables, loops, conditional statements, functions, goto, labels, etc
 
 
