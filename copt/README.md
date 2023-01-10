@@ -1,6 +1,7 @@
-#copt
+# copt
 
 ## How to run copt
+./test_sh copt_executable
 
 ## More details about copt
 ### Matrix Initialize
