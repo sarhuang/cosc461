@@ -1,5 +1,8 @@
 # html2latex
 
+## How to run html2latex
+make test
+
 ## More about html2latex
 1. The problem I attempted to solve is to take a HTML file and translate the HTML tags and
 appearance into LaTeX. Once you get a tex file, the program will convert it into a PDF
