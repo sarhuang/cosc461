@@ -1,5 +1,9 @@
 # nfa2dfa
 
+## How to run nfa2dfa
+1. Compile and make executable
+2. ./n < input.txt
+
 ## More about nfa2dfa
 1. The problem I attempted to solve is to take a text file representing a nondeterministic
 finite automaton (NFA) and translate it into a deterministic finite automaton (DFA). You
