@@ -1,4 +1,25 @@
 # cexpr
+
+## How to cexpr
+./cexpr
+
+From input.txt
+a = 55-3;
+b = c = a-42;
+a+b*c;
+dump;
+clear;
+c = 6;
+a = b;
+a = 10000;
+b = 100000;
+a*b;
+a*b*10;
+c/d;
+d/c;
+
+## More about cexpr
+
 1. The problem I attempted to solve is to make a scanner and parser using lex and yacc
 respectively for a calculator based on C integer expressions. It also supports 26 integer
 variables named after each letter of the alphabet. Expressions include basic arithmetic,
