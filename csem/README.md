@@ -1,5 +1,12 @@
 # csem
 
+## How to run csem
+1. To build the csem executable from source, type 'make'
+2. To build an example input with csem, type 'make csem_build INPUT=input4'
+3. To make the correct solution, type 'make ref_build INPUT=input4'
+4. To check your compiler is working, type 'make diff INPUT=input4'
+5. 'make test_clean' clears out files in test folder, 'make clean' cleans out everything
+
 ## More about csem
 1. The problem I attempted to solve is to read a snippet of C code and convert into LLVM
 intermediate representation. It should support variables, loops, conditional statements,
