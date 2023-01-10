@@ -9,9 +9,7 @@ file.
 on converting HTML tags to LaTeX because I was unfamiliar with the topic. The header
 tags and format text tags (small/big, bold, italics, etc.) are each contained in their own
 “simplified” function. Both front and end tags are in one statement, and the program
-prints out all the text between the tags. 
-
-Other HTML tags like paragraphs, unordered/ordered lists, comments, and pre-formatted
+prints out all the text between the tags. Other HTML tags like paragraphs, unordered/ordered lists, comments, and pre-formatted
 paragraphs require a specific environment. Rather than the front and end tags being
 together on one line, they are separated because it allows text format tags, list item tags,
 new lines, and whitespace to be included too.
